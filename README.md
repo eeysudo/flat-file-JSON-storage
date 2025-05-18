@@ -22,7 +22,7 @@ A lightweight, no-database REST-style API for storing and retrieving notes using
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/php-json-notes-api.git
+git clone [https://github.com/yourusername/php-json-notes-api.git](https://github.com/eeysudo/flat-file-JSON-storage.git)
 cd php-json-notes-api
 ```
 
